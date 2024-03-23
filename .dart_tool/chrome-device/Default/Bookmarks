@@ -1,0 +1,230 @@
+{
+   "checksum": "8c21fc5992b99c209591d451269f4c01",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13288078383413502",
+            "date_last_used": "0",
+            "guid": "4c9ba156-3783-41ee-8898-309a86ee69a2",
+            "id": "17",
+            "name": "WhatsApp",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13288961554763442",
+            "date_last_used": "0",
+            "guid": "f8da55d6-c593-4800-a128-0d79ddb1268f",
+            "id": "18",
+            "name": "BitTorrent Web",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://127.0.0.1:38565/gui/index.html?v=1.2.7.4186&localauth=localapi729553f4f4d00f0:#/library"
+         }, {
+            "date_added": "13318693997471104",
+            "date_last_used": "0",
+            "guid": "1445c5bf-03da-4d1c-ab5e-c999356ca5bf",
+            "id": "19",
+            "name": "Dos and don’ts of GD, Group Discussion",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.careerride.com/Group-Discussion-dos-dont.aspx#:~:text=Dos%20and%20Don%E2%80%99ts%20of%20participating%20in%20Group%20Discussion,the%20table%20with%20a%20pen%20etc.%20More%20items"
+         }, {
+            "date_added": "13318694238719384",
+            "date_last_used": "0",
+            "guid": "caabbea5-de56-4298-903b-9b687aebe54c",
+            "id": "20",
+            "name": "How To Write a Formal Email (With Steps and Example) | Indeed.com India",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://in.indeed.com/career-advice/career-development/how-to-write-a-formal-email"
+         }, {
+            "date_added": "13318694403418646",
+            "date_last_used": "0",
+            "guid": "fba1de97-f843-4e20-b35e-4a68a95abe07",
+            "id": "21",
+            "name": "25 formal email writing format examples & best practices",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.wisestamp.com/blog/formal-email-writing-formats/"
+         }, {
+            "date_added": "13318694648090137",
+            "date_last_used": "0",
+            "guid": "a806c918-7f25-4d6d-b26d-c9b9f1c3d0ce",
+            "id": "22",
+            "name": "Informal email greetings, subject lines, closing lines and 5 email examples",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.flowrite.com/blog/informal-email"
+         }, {
+            "date_added": "13318694959981334",
+            "date_last_used": "0",
+            "guid": "668d0479-39c3-4b51-9199-57390caf0cab",
+            "id": "23",
+            "name": "An informal email to a friend | LearnEnglish",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://learnenglish.britishcouncil.org/skills/writing/b2-writing/an-informal-email-to-a-friend"
+         }, {
+            "date_added": "13318695249414986",
+            "date_last_used": "0",
+            "guid": "edf9e6de-2721-4978-86af-2fa621eaa25e",
+            "id": "24",
+            "name": "How to Write a Formal Letter (With Examples) | Indeed.com Canada",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ca.indeed.com/career-advice/career-development/formal-letter-example"
+         }, {
+            "date_added": "13318695432116279",
+            "date_last_used": "0",
+            "guid": "3afe17dc-01aa-40ce-bffa-b8d486d96a0e",
+            "id": "25",
+            "name": "Formal Letter: Format of Letter Writing and Examples in English",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.vedantu.com/english/formal-letter"
+         }, {
+            "date_added": "13318695538430197",
+            "date_last_used": "0",
+            "guid": "27ed014e-8b22-4efc-84ba-ba91888e4099",
+            "id": "26",
+            "name": "Paragraph On APJ Abdul Kalam 100, 150,  200, 250 to 300 Words for Kids, Students And Children - A Plus Topper",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.aplustopper.com/paragraph-on-apj-abdul-kalam/#:~:text=Paragraph%20On%20APJ%20Abdul%20Kalam%3A%20Dr.%20APJ%20Abdul,filled%20in%20as%20the%20eleventh%20president%20of%20India."
+         }, {
+            "date_added": "13318695812783929",
+            "date_last_used": "0",
+            "guid": "21d436fd-9999-477a-8d59-e61b7a2a5fa1",
+            "id": "27",
+            "name": "Paragraph on Technology 100, 150, 200, 250 to 300 Words for Kids, Students, and Children - A Plus Topper",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.aplustopper.com/paragraph-on-technology/"
+         }, {
+            "date_added": "13318695877588141",
+            "date_last_used": "0",
+            "guid": "9cea4cef-aa28-4f46-88df-4519c80d4914",
+            "id": "28",
+            "name": "Technology Essay for Students in English",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.vedantu.com/english/technology-essay"
+         }, {
+            "date_added": "13318806365914127",
+            "date_last_used": "0",
+            "guid": "b76f0e1f-8c6f-4eda-a2b3-a35dd7cb8500",
+            "id": "29",
+            "name": "Galaxy | Definition, Formation, Types, Properties, & Facts | Britannica",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.britannica.com/science/galaxy"
+         }, {
+            "date_added": "13331985337791982",
+            "date_last_used": "0",
+            "guid": "24b2b7c5-7f2b-41b2-80e3-c250e8162f7f",
+            "id": "30",
+            "name": "New tab",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/"
+         }, {
+            "date_added": "13336306293882510",
+            "date_last_used": "0",
+            "guid": "91adc8de-2b8e-4745-a477-863abc83a27f",
+            "id": "31",
+            "name": "Sololearn JavaScript course ECMAScript 6 answers | Raz1ner",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dev-coco.github.io/post/Sololearn-Javascript-Course-ECMAScript6-Answers/"
+         }, {
+            "date_added": "13342799096513529",
+            "date_last_used": "0",
+            "guid": "c82f9fd2-c263-40f2-a586-4245a0aed12a",
+            "id": "10",
+            "name": "Adobe Acrobat Pro DC for Samsung",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.adobe.com/go/samsung_apdc"
+         }, {
+            "date_added": "13342799096513389",
+            "date_last_used": "0",
+            "guid": "4e0de16e-87ed-4f18-ae84-f94cc78cba6a",
+            "id": "9",
+            "name": "Adobe Creative Cloud All Apps for Samsung",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.adobe.com/go/samsung_cci"
+         }, {
+            "date_added": "13342799096513201",
+            "date_last_used": "0",
+            "guid": "1262c969-c3f5-48a1-a069-9cf57334091e",
+            "id": "8",
+            "name": "Adobe Premiere Pro CC for Samsung",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.adobe.com/go/samsung_ppcc"
+         }, {
+            "date_added": "13342799096512374",
+            "date_last_used": "0",
+            "guid": "3b2034ca-abad-4647-aba8-3a681641a7b7",
+            "id": "7",
+            "name": "McAfee LiveSafe - Benefits for Samsung PC users",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/samsung-pc.html"
+         } ],
+         "date_added": "13342799096249875",
+         "date_last_used": "0",
+         "date_modified": "13342814289883512",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13342799096249877",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13342799096249879",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCM/K+myLAQAAKg4QABgBIBooBjAAOABAABIAIAEqGDdzS2pyaWpTWGUvaUowWGlaa2NaRWc9PaAGDBKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRhMjI2OWNlNS1iNzhlLTU0OTktYjljZC1mNjgwMjk1ODc4MWQYACAAKAAw9+OMs9cvOMP41dXpL0DD+NXV6S9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqkBCB4SpAEKHEE0VUxvUmJTU1M2L1VlL0tWdUFFZEg5NUpVND0SJDI0YjJiN2M1LTdmMmItNDFiMi04MGUzLWMyNTBlODE2MmY3ZhgAIAAoADDv8ISfszE4psm6no8xQKbJup6PMUocbUtUV2crbUFyNkVNKzJGZmZEZkVpYlhvYlpvPVogIh7/5nQ3YktDQks3azQ5N2hPYUdXZm9ISDRILzJKUT1l2K+wAhKpAQgdEqQBChxXelNxelZSL1dsVmNrRjllYU9UZitVeVY0bjQ9EiRiNzZmMGUxZi04YzZmLTRlZGEtYTJiMy1hMzVkZDdjYjg1MDAYACACKAIw0cv957YxONKRirDdMECAo/3ntjFKHHVsWTFGY3p2NlJ6dnJSNjRYdVZDOUN1V3VTTT1aICIe/81mT2lsVjJKTlBaUzM4UDAySXZUQ09HVGdJbGc9ZX123AYSqQEIHBKkAQocU1pNWUpYMXJZMU5wOS8wMW00dEhXNkI5RkZrPRIkOWNlYTRjZWYtYWEyOC00ZjQ2LTg4ZGYtNDUxOWM4MGQ0OTE0GAAgAigCMMjL/ee2MTifr7L73DBA/6L957YxShx5RGJKb3YySndlbmp3NCtPREd1cGoyNCtUdzg9WiAiHv+bM1dPOERwdjJJMzkwYXI2bWdaY2FOcnZzZnFzPWV2X64dEqgBCBsSowEKHDZqRnhsN3ZYUWJiWkNQU3VJamZSSnRVUmdpWT0SJDIxZDQzNmZkLTk5OTktNDc3YS04ZDU5LWU2MWI3YTJhNWZhMRgAIAIoAjDTy/3ntjE4+ryu+9wwQP+i/ee2MUocRHNFTmFzTi96L1dTMlRpMkd3UzN2Um5lOHN3PVofIh3/NmdvTytmc001cC9TQVBTNXJ5Z09SZytpYW9BPWWfDPUgEqkBCB8SpAEKHGlDSmMxcnhHbXdKR0dLVm9xNnQ2enErUUVuUT0SJDkxYWRjOGRlLTJiOGUtNDc0NS1hNDc3LTg2M2FiYzgzYTI3ZhgAIAIoAjDSy/3ntjE40oPZyJ4xQIGj/ee2MUocY1o0citRRm5hNEJFc2l1cUtOVFp0Z01UaVZvPVogIh7/82JYNG9aNkVwTE50cXhQNW1iSWV4azlWVEtLaz1l/j1F9RKoAQgZEqMBChxLS1ZLMFRHNkhYRHY0Si93bEJ3bXhMY0J0dWM9EiQzYWZlMTdkYy0wMWFhLTQwY2UtYmZmYS1iOGQ0ODZkOTZhMGUYACACKAIwz8v957YxOO+yl/vcMED+ov3ntjFKHE9pT2VUazJHT3BybFhJYjNUUmVWWjIyTkJtYz1aHyId/nZxOTVtb3h1UlpSYS94Sm1TUDd0RE5kRW90QT1ldl+uHRKoAQgYEqMBChxyZTZqdVZ0Ky8rdWtuUUxWOVAyd0EyKzgrTDA9EiRlZGY5ZTZkZS0yNzIxLTQ5NzgtODZhZi0yZmE2MjFlYWEyNWUYACACKAIw0Mv957YxOPGYjPvcMED8ov3ntjFKHGV0V1diSnFodlVJamFPN05xREFHcEthN2lzRT1aHyId/WFRanFBVjQ1YzlGWXZBTlZzT2RVQ1hYMnRBWT1lfM5cThKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ2OGNlYWNhMi02OTY5LTVlYmUtYTY4ZC1kYWExNTg1YzYyN2EYACAAKAAw9+OMs9cvOKT41dXpL0Ck+NXV6S9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqgBCBoSowEKHHVQQVUxaDNnei9lTDZndUJNK29DY2xuTmdZOD0SJDI3ZWQwMTRlLThiMjItNGVmYy04NGJhLWJhOTE4ODhlNDA5ORgAIAIoAjDNy/3ntjE4ovae+9wwQP+i/ee2MUocQUlaUDJLYTlMM3pJdXZ3LzZLSEVhNW94bDVJPVofIh3/MU4yTzMrcVdCYVdhZW0yMVdlcXMwMkJFNjd3PWWfDPUgEqgBCBcSowEKHEVobk1sS1ZHZktuVVhZTXhyeklINzg0VkFQWT0SJDY2OGQwNDc5LTM5YzMtNGI1MS05MTk5LTU3MzkwY2FmMGNhYhgAIAIoAjDMy/3ntjE4mbb6+twwQPyi/ee2MUocT2tJSnVrVjlXL01nV1dGcVYwYlkrbXljWWNFPVofIh37QWtINFR0Vm1jQVhoYVZQZExvNEFxMk04Q0E0PWXyl8Y0EqgBCBYSowEKHExhd3lyWSt5ZEdWdDVFVTVLNzhGMUxZamFtQT0SJGE4MDZjOTE4LTdmMjUtNGQ2ZC1iMjZkLWM5YjlmMWMzZDBjZRgAIAIoAjDLy/3ntjE4t7Tn+twwQPyi/ee2MUocV0h4bmQ0QmRJd3IwL0t0SmhPRURjTzU2NFh3PVofIh32Qm5Pc2FtYzZRMGJtWForYkVNMHZkaDZJTFBJPWXJ3fFgEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGZjMWVlYzIyLTMwZjItNWZiZC1iMTg1LWJhM2RlODc2ZWU1ZBgAIAAoADD344yz1y840vjV1ekvQNL41dXpL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqAEIFRKjAQocSjZtaE9lc2xCajZuSHVKc0I4dmY2T1dTUWhFPRIkZmJhMWRlOTctZjg0My00ZTIwLWIzNWUtNGE2OGE5NWFiZTA3GAAgAigCMM7L/ee2MTj9udj63DBA+6L957YxShxBSzhKbUNoSzk4cVZxZ3d4Q21TVXdmK3dpRnc9Wh8iHe1jWWZncnhCU1NmbExvaUQ2eDJjMXhnZVhNbTA9ZUMTqZcSqAEIExKjAQocOGZSU0pJaTZvUVlhL3RPdGJ5RkE2aWFSUmNNPRIkMTQ0NWM1YmYtMDNkYS00ZDFjLWFiNWUtYzk5OTM1NmNhNWJmGAAgAigCMMnL/ee2MTi/1r/63DBA+qL957YxShx0alBET29hakg1bzlmN1F1dTcwYU9vUWtTWmM9Wh8iHbQ3b1ZnQkRxMzQwRFEvb3dYTUMvVXh3WXg4Zzg9ZUzAbu8SpwEIERKiAQocK0tqZElsdUUwTzcwMlY3OG9pcDJNSUVCUDVzPRIkNGM5YmExNTYtMzc4My00MWVlLTg4OTgtMzA5YTg2ZWU2OWEyGAAgAigCMMfL/ee2MTiWievz6i9A+KL957YxShwxc0puSjRKVEdXazRGRmxoL2N6dGRJT2haRlU9Wh4iHEpHbnRjMzVoTG5OVDFmYTlZdDZ4TG4vMXF2QT1l/dYgchKoAQgUEqMBChxLVGZDenh2YitxSUxzMHJzY09wRmhGa0lyN0E9EiRjYWFiYmVhNS1kZTU2LTQyOTgtOTAzYi05YjY4N2FlYmU1NGMYACACKAIwysv957YxON+zzvrcMED7ov3ntjFKHDBFMnN2WThKbVJHTWFCK0RoVDVFdC9xd3B6TT1aHyId2nBMQUdtMHNFWmFVRDZPZmsydHVQeDNZbWJpVT1lfM5cThKnAQgSEqIBChxHVkludEdrMWpFL0JSbnJSK1NuV29jTVJUVDg9EiRmOGRhNTVkNi1jNTkzLTQ4MDAtYTEyOC0wZDc5ZGRiMTI2OGYYACAAKAAwp6T+mO4vOP60+5juL0D+tPuY7i9KHDVJVXVDMytvMzNmZExkZytMMjRBNmluZ1d5UT1aHiIcaFh0U05lWGtJVG9FZ3J3bFNRaW43dTN2VnN3PWUAAAAAMAA4AA==",
+   "version": 1
+}
